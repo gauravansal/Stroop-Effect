@@ -8,9 +8,14 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 #### Questions for investigation
 
-Q1. What is our independent variable? What is our dependent variable?
-Q2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform?
-Q3. Report some descriptive statistics regarding this dataset.
-Q4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
-Q5.  What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
-Q6. Hypotheses regarding the reasons for the effect observed are presented. An extension or related experiment to the performed Stroop task is provided, that may produce similar effects.
+* Q1. What is our independent variable? What is our dependent variable?
+
+* Q2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform?
+
+* Q3. Report some descriptive statistics regarding this dataset.
+
+* Q4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
+
+* Q5.  What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
+
+* Q6. Hypotheses regarding the reasons for the effect observed are presented. An extension or related experiment to the performed Stroop task is provided, that may produce similar effects.
